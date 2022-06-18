@@ -1,0 +1,244 @@
+{
+  "id": "c43420a0-86b0-45f9-8159-7fe9cd7213f4",
+  "version": "2.0",
+  "name": "Kim Jong-un",
+  "url": "https://memberarea.forexland-fx.com",
+  "tests": [{
+    "id": "e1c6ff29-5e46-40c8-80af-f75e50267ea7",
+    "name": "Entry By Kim Jong-un",
+    "commands": [{
+      "id": "225bb0dc-5312-4df8-ae07-9b60598a9a88",
+      "comment": "",
+      "command": "open",
+      "target": "/ja/live_signup",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3beb6912-acd4-4fcd-9a31-bb07ab8b76d7",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "783x688",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "78b2f6f4-36cd-4887-b508-eaf1ec55b452",
+      "comment": "",
+      "command": "click",
+      "target": "id=fname",
+      "targets": [
+        ["id=fname", "id"],
+        ["name=fname", "name"],
+        ["css=#fname", "css:finder"],
+        ["xpath=//input[@id='fname']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[6]/div/input", "xpath:idRelative"],
+        ["xpath=//div[6]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b86ffb32-53d6-49ae-b5b6-c45528e0b09d",
+      "comment": "",
+      "command": "type",
+      "target": "id=fname",
+      "targets": [
+        ["id=fname", "id"],
+        ["name=fname", "name"],
+        ["css=#fname", "css:finder"],
+        ["xpath=//input[@id='fname']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[6]/div/input", "xpath:idRelative"],
+        ["xpath=//div[6]/div/input", "xpath:position"]
+      ],
+      "value": "Jong-un"
+    }, {
+      "id": "ae8e6423-67db-45e6-bda1-f83d32f05782",
+      "comment": "",
+      "command": "click",
+      "target": "id=lname",
+      "targets": [
+        ["id=lname", "id"],
+        ["name=lname", "name"],
+        ["css=#lname", "css:finder"],
+        ["xpath=//input[@id='lname']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[9]/div/input", "xpath:idRelative"],
+        ["xpath=//div[9]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4c6a912c-2db5-4c65-9cee-f4683ec9de3f",
+      "comment": "",
+      "command": "type",
+      "target": "id=lname",
+      "targets": [
+        ["id=lname", "id"],
+        ["name=lname", "name"],
+        ["css=#lname", "css:finder"],
+        ["xpath=//input[@id='lname']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[9]/div/input", "xpath:idRelative"],
+        ["xpath=//div[9]/div/input", "xpath:position"]
+      ],
+      "value": "Kim"
+    }, {
+      "id": "ea02737b-b0ed-46fd-b480-f0ac55473cf3",
+      "comment": "",
+      "command": "click",
+      "target": "id=userEmail",
+      "targets": [
+        ["id=userEmail", "id"],
+        ["name=userEmail", "name"],
+        ["css=#userEmail", "css:finder"],
+        ["xpath=//input[@id='userEmail']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[12]/div/input", "xpath:idRelative"],
+        ["xpath=//div[12]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4dfc9784-2b63-4865-b69b-ff72864e1b30",
+      "comment": "",
+      "command": "click",
+      "target": "id=userEmail",
+      "targets": [
+        ["id=userEmail", "id"],
+        ["name=userEmail", "name"],
+        ["css=#userEmail", "css:finder"],
+        ["xpath=//input[@id='userEmail']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[12]/div/input", "xpath:idRelative"],
+        ["xpath=//div[12]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "29762a54-6eb3-4cb3-a8ea-1060b8824c2c",
+      "comment": "",
+      "command": "click",
+      "target": "id=userEmail",
+      "targets": [
+        ["id=userEmail", "id"],
+        ["name=userEmail", "name"],
+        ["css=#userEmail", "css:finder"],
+        ["xpath=//input[@id='userEmail']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[12]/div/input", "xpath:idRelative"],
+        ["xpath=//div[12]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d17fa694-0251-4275-8795-8e58e10f81cd",
+      "comment": "",
+      "command": "type",
+      "target": "id=userEmail",
+      "targets": [
+        ["id=userEmail", "id"],
+        ["name=userEmail", "name"],
+        ["css=#userEmail", "css:finder"],
+        ["xpath=//input[@id='userEmail']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[12]/div/input", "xpath:idRelative"],
+        ["xpath=//div[12]/div/input", "xpath:position"]
+      ],
+      "value": "support-00006@forexland-fx.com"
+    }, {
+      "id": "e512d3e1-5ceb-407d-974c-3850024b2962",
+      "comment": "",
+      "command": "click",
+      "target": "id=userPassword",
+      "targets": [
+        ["id=userPassword", "id"],
+        ["name=userPassword", "name"],
+        ["css=#userPassword", "css:finder"],
+        ["xpath=//input[@id='userPassword']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[16]/div/input", "xpath:idRelative"],
+        ["xpath=//div[16]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1ab0f141-a5ff-4ad0-93b8-2d43417e1971",
+      "comment": "",
+      "command": "type",
+      "target": "id=userPassword",
+      "targets": [
+        ["id=userPassword", "id"],
+        ["name=userPassword", "name"],
+        ["css=#userPassword", "css:finder"],
+        ["xpath=//input[@id='userPassword']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[16]/div/input", "xpath:idRelative"],
+        ["xpath=//div[16]/div/input", "xpath:position"]
+      ],
+      "value": "Go!Go!Kim09876!"
+    }, {
+      "id": "bc4fe978-a73e-4e2a-a996-acb5e8c1c2f2",
+      "comment": "",
+      "command": "click",
+      "target": "id=confirmUserPassword",
+      "targets": [
+        ["id=confirmUserPassword", "id"],
+        ["name=confirmUserPassword", "name"],
+        ["css=#confirmUserPassword", "css:finder"],
+        ["xpath=//input[@id='confirmUserPassword']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[20]/div/input", "xpath:idRelative"],
+        ["xpath=//div[20]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f31f9e74-8b2b-4ff1-b1f7-dde2190fbd33",
+      "comment": "",
+      "command": "type",
+      "target": "id=confirmUserPassword",
+      "targets": [
+        ["id=confirmUserPassword", "id"],
+        ["name=confirmUserPassword", "name"],
+        ["css=#confirmUserPassword", "css:finder"],
+        ["xpath=//input[@id='confirmUserPassword']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[20]/div/input", "xpath:idRelative"],
+        ["xpath=//div[20]/div/input", "xpath:position"]
+      ],
+      "value": "Go!Go!Kim09876!"
+    }, {
+      "id": "f3ba5670-3c8d-46fd-a7a5-011aeb670eba",
+      "comment": "",
+      "command": "click",
+      "target": "id=tel",
+      "targets": [
+        ["id=tel", "id"],
+        ["name=tel", "name"],
+        ["css=#tel", "css:finder"],
+        ["xpath=//input[@id='tel']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[25]/div/div[3]/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d587a267-62cb-4875-b555-6c2bf7c754d7",
+      "comment": "",
+      "command": "type",
+      "target": "id=tel",
+      "targets": [
+        ["id=tel", "id"],
+        ["name=tel", "name"],
+        ["css=#tel", "css:finder"],
+        ["xpath=//input[@id='tel']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[25]/div/div[3]/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": "12345678"
+    }, {
+      "id": "c95cf05e-3aca-4b21-9b4d-3e99244784f6",
+      "comment": "",
+      "command": "click",
+      "target": "id=register_new",
+      "targets": [
+        ["id=register_new", "id"],
+        ["css=#register_new", "css:finder"],
+        ["xpath=//button[@id='register_new']", "xpath:attributes"],
+        ["xpath=//form[@id='registerForm']/div/div/div/div/div/div[31]/div/button", "xpath:idRelative"],
+        ["xpath=//div[31]/div/button", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "66fe2bfe-09c9-475a-8115-25e83d2fba81",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["e1c6ff29-5e46-40c8-80af-f75e50267ea7"]
+  }],
+  "urls": ["https://memberarea.forexland-fx.com/"],
+  "plugins": []
+}
